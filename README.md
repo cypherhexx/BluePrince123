@@ -1,15 +1,15 @@
 <img align='center' style="width: 300px; margin: 0 auto" src="./assets/img/bg/github-bg2.png" />
 
-<h1>Hi Traveller, I am <a href="https://codegitpro.com/">Michael Jin</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi Traveller, I am <a href="https://codegitpro.com/">Jeff Leu</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' style="margin-left:20px;" src="./assets/img/me/me-rectangle.png" width="230" />
 
 <!-- <a href="https://www.youtube.com/channel/michael_jin_dev"><img src="./assets/img/logo/youtube-logo.png" width="40" /></a> -->
-<a style="margin:10px;" href="https://www.linkedin.com/in/michael-jin-dev" target="_blank"><img src="./assets/img/logo/linkedin.png" width="40" /></a>
-<a style="margin:10px;" href="https://github.com/codegitpro" target="_blank"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
-<a style="margin:10px;" href="https://www.facebook.com/michaeljindev" target="_blank"><img src="./assets/img/logo/facebook.png" width="40" /></a>
-<a style="margin:10px;" href="mailto:michael.jin.dev@gmail.com" target="_blank"><img src="./assets/img/logo/google-plus.png" width="40" /></a>
-<a style="margin:10px;" href="https://twitter.com/michaeljindev" target="_blank"><img src="./assets/img/logo/twitter.png" width="40" /></a>
-<a style="margin:10px;" href="https://www.instagram.com/michael.jin.dev" target="_blank"><img src="./assets/img/logo/instagram.png" width="40" /></a>
+<a style="margin:10px;" href="https://www.linkedin.com/in/jeff-leu-5b5b031a0/" target="_blank"><img src="./assets/img/logo/linkedin.png" width="40" /></a>
+<a style="margin:10px;" href="https://github.com/BluePrince123" target="_blank"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
+<a style="margin:10px;" href="https://www.facebook.com/BluePrince" target="_blank"><img src="./assets/img/logo/facebook.png" width="40" /></a>
+<a style="margin:10px;" href="mailto:bluesky410219@gmail.com" target="_blank"><img src="./assets/img/logo/google-plus.png" width="40" /></a>
+<a style="margin:10px;" href="https://twitter.com/blueprince" target="_blank"><img src="./assets/img/logo/twitter.png" width="40" /></a>
+<a style="margin:10px;" href="https://www.instagram.com/Jeff.leu.dev" target="_blank"><img src="./assets/img/logo/instagram.png" width="40" /></a>
 
 # OVERVIEW
 
@@ -48,10 +48,6 @@ As the Director of Multimedia for Entravision Communications, Ray managed a netw
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=shopify-bulk-import&show_owner=true&theme=calm)](https://github.com/codegitpro/shopify-bulk-import)
 
 ## My Content
-- [LinkedIn](https://www.linkedin.com/in/michael-jin-dev)
-- [Twitter](https://twitter.com/michaeljindev)
-- [Instagram](https://www.instagram.com/michael.jin.dev)
-- [Facebook](https://www.facebook.com/michaeljindev)
-- [CodeRank](https://profile.codersrank.io/user/codegitpro/)
-- [GitHub](https://github.com/codegitpro)
-- [Email](michael.jin.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jeff-leu-5b5b031a0/)
+- [GitHub](https://github.com/BluePrince123)
+- [Email](bluesky410219@gmail.com)
