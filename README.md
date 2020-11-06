@@ -36,16 +36,7 @@ Creative web developer dedicated to building and optimizing the performance of h
 
 As the Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
 
-[![Anurag's's github stats](https://github-readme-stats.vercel.app/api?username=codegitpro&show_icons=true&count_private=true&theme=calm&include_all_commits=true)](https://github.com/codegitpro/codegitpro)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegitpro&show_icons=true&count_private=true&langs_count=10&layout=compact&theme=calm&include_all_commits=true)](https://github.com/codegitpro/codegitpro)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=angular-hero&show_owner=true&theme=calm)](https://github.com/codegitpro/angular-hero)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=electron-todo&show_owner=true&theme=calm)](https://github.com/codegitpro/electron-todo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=nano-node&show_owner=true&theme=calm)](https://github.com/codegitpro/nano-node)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=graphic-interview&show_owner=true&theme=calm)](https://github.com/codegitpro/graphic-interview)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=pandas-bigdata&show_owner=true&theme=calm)](https://github.com/codegitpro/pandas-bigdata)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codegitpro&repo=shopify-bulk-import&show_owner=true&theme=calm)](https://github.com/codegitpro/shopify-bulk-import)
 
 ## My Content
 - [LinkedIn](https://www.linkedin.com/in/jeff-leu-5b5b031a0/)
