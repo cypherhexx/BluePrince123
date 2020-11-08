@@ -1,15 +1,3 @@
-<img align='center' style="width: 300px; margin: 0 auto" src="./assets/img/bg/github-bg2.png" />
-
-<h1>Hi Traveller, I am <a href="https://codegitpro.com/">Jeff Leu</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' style="margin-left:20px;" src="./assets/img/me/me-rectangle.png" width="230" />
-
-<!-- <a href="https://www.youtube.com/channel/michael_jin_dev"><img src="./assets/img/logo/youtube-logo.png" width="40" /></a> -->
-<a style="margin:10px;" href="https://www.linkedin.com/in/jeff-leu-5b5b031a0/" target="_blank"><img src="./assets/img/logo/linkedin.png" width="40" /></a>
-<a style="margin:10px;" href="https://github.com/BluePrince123" target="_blank"><img src="./assets/img/logo/github-logo.png" width="40" /></a>
-<a style="margin:10px;" href="https://www.facebook.com/BluePrince" target="_blank"><img src="./assets/img/logo/facebook.png" width="40" /></a>
-<a style="margin:10px;" href="mailto:bluesky410219@gmail.com" target="_blank"><img src="./assets/img/logo/google-plus.png" width="40" /></a>
-<a style="margin:10px;" href="https://twitter.com/blueprince" target="_blank"><img src="./assets/img/logo/twitter.png" width="40" /></a>
-<a style="margin:10px;" href="https://www.instagram.com/Jeff.leu.dev" target="_blank"><img src="./assets/img/logo/instagram.png" width="40" /></a>
 
 # OVERVIEW
 
